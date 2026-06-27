@@ -23,6 +23,11 @@ This project is an interactive Excel dashboard built using Pivot Tables and Pivo
 - Dashboard Design
 - Business Data Analysis
 
+My Dashboard:
+<img width="1821" height="687" alt="image" src="https://github.com/user-attachments/assets/e0e053ab-eaa8-43e9-ab0f-c6997f8fad42" />
+
+  
+
 ## Future Improvements
 - Add interactive slicers
 - Improve color theme
